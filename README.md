@@ -1,5 +1,5 @@
-
-
-https://github.com/user-attachments/assets/18df4879-12f3-422b-a53b-d1d4fd45220b
-
-# PRODIGY_WD_04
+What I Learned
+How to design a responsive website
+Improving UI/UX skills
+Structuring a real-world project
+Using GitHub for version control
